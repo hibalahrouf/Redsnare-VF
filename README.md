@@ -111,6 +111,3 @@ RedSnare addresses critical vulnerabilities found in traditional platforms:
 
 ---
 
-## ⚖️ License
-
-Distributed under the MIT License. See `LICENSE` (if available) for more information.
