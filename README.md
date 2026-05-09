@@ -4,7 +4,7 @@
   <img src="Redsnarelogo.png" alt="RedSnare Logo" width="200"/>
 </p>
 
-> **Status:** MVP Complete | Deployed on Arbitrum Sepolia Testnet.
+> **Status:** MVP Complete .
 
 RedSnare is a production-ready decentralized bug bounty platform built with **Foundry**, **Next.js**, and **Wagmi**. It leverages blockchain technology to solve the trust issues inherent in centralized bug bounty platforms (opacity, payment delays, and arbitrary triage).
 
